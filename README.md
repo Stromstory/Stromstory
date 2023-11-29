@@ -10,13 +10,13 @@ I'm passionated about nothing. thx
 
 ![](https://komarev.com/ghpvc/?username=Stromstory&color=000000)  
 <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Stromstory&show_icons=true&hide=issues&icon_color=C9D1D9&hide_border=false&title_color=C9D1D9&text_color=8B948D&bg_color=0D1117&theme=dark">
+<br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zhwzein&theme=dark)](https://git.io/streak-stats)  
 </details>
 
 <!-- Contact me -->
 <details><summary><b>Contact me</b></summary><br>
   
-  <a href="https://zenzapis.xyz/" target="_blank"><img src="https://i.ibb.co/PN3Xf0c/textprome-160c4ce97b249f.jpg" width="440"></a><br>  
   <div align="left">
        <a href="https://github.com/Stromstory/" target="_blank"><img src="https://shields.io/badge/Stromstory-111111.svg?&style=for-the-badge&logo=github"></a>  
        <a href="https://www.instagram.com/my8486460/" target="_blank"><img src="https://shields.io/badge/Stromstory-111111.svg?&style=for-the-badge&logo=instagram"></a>  
